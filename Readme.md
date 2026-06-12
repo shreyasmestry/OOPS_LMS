@@ -1,4 +1,3 @@
-Here is a clean, professional, and scannable README.md for your Library Management System project.
 
 Library Management System (OOP Demo)
 A clean, object-oriented, console-based Library Management System built with Python. This project serves as a practical demonstration of core Object-Oriented Programming (OOP) principles, featuring type safety, encapsulation, and clean software architecture.
